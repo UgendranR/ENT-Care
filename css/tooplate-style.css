@@ -18,15 +18,16 @@ http://www.tooplate.com/view/2098-health
     margin-bottom: 75px;
     text-align: center;
   }
-.social-icon{
-  background-color: none;
-}
+
   .social-icon span{
-    margin-top: -5px;
+    
     margin-left: 10px;
-    color:#858585
+    color:rgb(117, 117, 117);
   }
-  .
+ .chennai{
+   
+   margin-bottom: 5px;
+ }
 
 
   /*---------------------------------------
@@ -935,6 +936,8 @@ http://www.tooplate.com/view/2098-health
   .social-icon li {
     display: inline-block;
     list-style: none;
+  }.fa{
+    size: 10px;
   }
 
   .social-icon li a {
@@ -950,9 +953,8 @@ http://www.tooplate.com/view/2098-health
     position: relative;
   }
 
-  .social-icon li a:hover {
-    background: #4267b2;
-    color: #ffffff;
+  .opening-hours{
+    margin-bottom: 30px;
   }
 
 
