@@ -18,6 +18,15 @@ http://www.tooplate.com/view/2098-health
     margin-bottom: 75px;
     text-align: center;
   }
+.social-icon{
+  background-color: none;
+}
+  .social-icon span{
+    margin-top: -5px;
+    margin-left: 10px;
+    color:#858585
+  }
+  .
 
 
   /*---------------------------------------
